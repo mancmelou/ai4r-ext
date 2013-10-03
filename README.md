@@ -5,3 +5,4 @@ ai4r-ext
 To do
 -----
 - Add tf-idf for text feature extraction
+- http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm 
